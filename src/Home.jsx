@@ -11,26 +11,28 @@ export default class Home extends Component {
           Full Stack Web App Developer
         </p>
         <div className="mx-5 mt-3">
-          <div className="bg-sky-400 font-semibold bg-violet-700 p-2 mb-1">
+          <div className="bg-sky-400 font-semibold  p-2 mb-1">
             EDUCATION
           </div>
           <p className="leading-8 tracking-wide">
             <ul className="list-disc ml-4">
               <li>
                 <b> Dr. A.P.J.Abdul Kalam Technical University</b><br/>
-                Bachelor of Technology (2017-2021) Computer Science and
+                Bachelor of Technology (2018-2021) Computer Science and
                 Engineering Lucknow, Uttar Pradesh, India
               </li>
-
+              <li>
+              <b>B.Sc</b>  Siddharth University, Kapilvastu,Siddharth Nagar in year (2016 -2018).
+              </li>
               <li>
               <b>Intermediate</b>  UP Board in year 2013
               </li>
-              <li><b>High School</b> UP Board in year 2016</li>
+              <li><b>High School</b> UP Board in year 2015</li>
             </ul>
           </p>
         </div>
         <div className="mx-5 mt-3">
-          <div className="bg-sky-400 font-semibold bg-violet-700 p-2 mb-1">
+          <div className="bg-sky-400 font-semibold  p-2 mb-1">
             PROJECT
           </div>
           <p className="leading-8 tracking-wide">
@@ -44,7 +46,7 @@ export default class Home extends Component {
           </p>
         </div>
         <div className="mx-5 mt-3">
-          <div className="bg-sky-400 font-semibold bg-violet-700 p-2 mb-1">
+          <div className="bg-sky-400 font-semibold  p-2 mb-1">
             Responsive Website
           </div>
           <p className="leading-8 tracking-wide">
@@ -63,7 +65,7 @@ export default class Home extends Component {
           </p>
         </div>
         <div className="mx-5 mt-3">
-          <div className="bg-sky-400 font-semibold bg-violet-700 p-2 mb-1">
+          <div className="bg-sky-400 font-semibold  p-2 mb-1">
             Responsibility
           </div>
           <p className="leading-8 tracking-wide">
